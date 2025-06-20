@@ -1,5 +1,2 @@
 @import "tailwindcss";
 
-.scroll-snap-y-mandatory {
-  scroll-snap-type: y mandatory;
-}
