@@ -1,2 +1,10 @@
 @import "tailwindcss";
 
+html {
+  scroll-snap-type: y mandatory;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: transparent;/*#171717*/
+}
+
